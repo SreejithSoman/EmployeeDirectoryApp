@@ -1,3 +1,3 @@
 # EmployeeDirectoryAp
 
-Kotlin + MVVM + Live Data + View Model + View Binding + Coroutines + Retrofit + Hilt + Room.
+Kotlin + MVVM + Navigation + Live Data + View Model + View Binding + Coroutines + Retrofit + Hilt + Room.
